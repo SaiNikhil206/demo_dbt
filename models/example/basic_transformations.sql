@@ -1,1 +1,0 @@
-select booking_id, room_number,total_price from HOTEL_BOOKING_DATA.GOLD_LAY.HOTEL_BOOKING
